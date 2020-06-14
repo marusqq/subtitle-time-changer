@@ -1,5 +1,5 @@
 {
-"time_type_to_add": "s",
+"time_type_to_add": "ms",
 "1# comment:": "h/m/s/ms", 
-"time_to_add": "1"
+"time_to_add": "2000"
 }
