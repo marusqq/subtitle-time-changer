@@ -1,0 +1,2 @@
+python subtitles.py
+pause

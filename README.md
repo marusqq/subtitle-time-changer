@@ -1,0 +1,1 @@
+# Script used to shift subtitle timings so they don't be late. Edit add_settings.json for desired changes
